@@ -1,0 +1,3 @@
+# Turret View Cone
+
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/r_1MzQqqs40?si=BgDHp9MtYjHK-zjO" width="800" height="500" allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe></p>
