@@ -1,0 +1,3 @@
+# Module Notes
+
+<p><a class="instructure_file_link instructure_scribd_file inline_disabled" title="GDP - Module 0 Notes.pdf" href="https://vertexschool.instructure.com/courses/463/files/27896?verifier=UkwYmk6Ij71SR30GHiGqMY3vXJOapyIh64YO83tr&amp;wrap=1" target="_blank" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/files/27896" data-api-returntype="File">Here is a link to the notes for Module 0.&nbsp;</a></p>
