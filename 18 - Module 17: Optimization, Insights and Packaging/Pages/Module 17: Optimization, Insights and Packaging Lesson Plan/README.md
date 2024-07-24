@@ -1,0 +1,16 @@
+# Module 17: Optimization, Insights and Packaging Lesson Plan
+
+<h3>Lesson Description: Project Optimization and Packaging in Unreal Engine 5</h3>
+<h4>Overview</h4>
+<p>This in-depth lesson on Unreal Engine 5 (UE5) focuses on the critical stages of optimization and packaging for game projects. Students will learn how to analyze and improve the performance of their games through understanding shader complexity, addressing overdraw, managing light complexity, and utilizing Virtual Shadow Maps (VSM) and Nanite technology. Additionally, the course covers essential profiling commands and introduces Unreal Insights for comprehensive performance monitoring. The lesson culminates with a step-by-step guide on how to properly package a UE5 project for various platforms, ensuring students are equipped to deliver polished and efficient game builds.</p>
+<p><a title="Shader Complexity Overdraw" href="https://vertexschool.instructure.com/courses/463/pages/shader-complexity-overdraw" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/shader-complexity-overdraw" data-api-returntype="Page"><span>Shader Complexity Overdraw</span></a></p>
+<p><span><a class="ig-title title item_link" title="Light Complexity VSM Nanite" href="https://vertexschool.instructure.com/courses/463/modules/items/24543">Light Complexity VSM Nanite</a></span></p>
+<p><a title="Profiling Commands" href="https://vertexschool.instructure.com/courses/463/pages/profiling-commands" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/profiling-commands" data-api-returntype="Page"><span>Profiling Commands</span></a></p>
+<p><a title="Unreal Insights" href="https://vertexschool.instructure.com/courses/463/pages/unreal-insights" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/unreal-insights" data-api-returntype="Page"><span>Unreal Insights</span></a></p>
+<p><span><a class="ig-title title item_link" title="Packaging" href="https://vertexschool.instructure.com/courses/463/modules/items/24546">Packaging</a></span></p>
+<p><span style="font-size: 14pt;">Assignment</span></p>
+<p><span>Apply the techniques and tools learned in the lesson on project optimization and packaging in Unreal Engine 5. Your task is to optimize an existing game project by reducing shader and light complexity, utilize profiling tools and Unreal Insights to identify and address performance bottlenecks, and finally package the optimized project for distribution.</span></p>
+<ul>
+<li><a title="Assignment 17: Optimization, Insights and Packaging" href="https://vertexschool.instructure.com/courses/463/assignments/3227" data-course-type="assignments" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/assignments/3227" data-api-returntype="Assignment"><span style="font-size: 12pt;">Assignment 17</span></a></li>
+</ul>
+<p>&nbsp;</p>
