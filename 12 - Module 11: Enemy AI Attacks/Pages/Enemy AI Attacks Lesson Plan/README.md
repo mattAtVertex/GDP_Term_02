@@ -1,0 +1,14 @@
+# Enemy AI Attacks Lesson Plan
+
+<p><span>This lesson focuses on advanced AI development techniques in Unreal Engine 5 (UE5), guiding students through the process of refining their base enemy AI code, creating a Behavior Tree (BT) service for managing attack range, implementing this service within a behavior tree, and writing code for AI patrolling behavior. The lesson aims to deepen students' understanding of AI behavior customization and optimization in UE5.</span></p>
+<p><span>The following lessons are below:&nbsp;</span></p>
+<p><a title="Module 11 Intro" href="https://vertexschool.instructure.com/courses/463/pages/module-11-intro" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/module-11-intro" data-api-returntype="Page"><span>Module 11 Intro</span></a></p>
+<p><a title="Enemy Base Refactor" href="https://vertexschool.instructure.com/courses/463/pages/enemy-base-refactor" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/enemy-base-refactor" data-api-returntype="Page"><span>Enemy Base Refactor</span></a></p>
+<p><a title="Behavior Tree Service: Attack Range" href="https://vertexschool.instructure.com/courses/463/pages/behavior-tree-service-attack-range" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/behavior-tree-service-attack-range" data-api-returntype="Page"><span>Behavior Tree Service: Attack Range</span></a></p>
+<p><span><a class="ig-title title item_link" title="Service Implementation" href="https://vertexschool.instructure.com/courses/463/modules/items/24481">Service Implementation</a></span></p>
+<p><a title="AI Patrolling" href="https://vertexschool.instructure.com/courses/463/pages/ai-patrolling" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/ai-patrolling" data-api-returntype="Page"><span>AI Patrolling</span></a></p>
+<p>Assignment</p>
+<p><span>Apply the principles learned in the lesson to enhance the AI of a base enemy character in Unreal Engine 5. This involves refactoring the existing AI code for optimization, creating a Behavior Tree service to manage attack range, implementing this service within a behavior tree, and developing a patrolling behavior for the enemy.</span></p>
+<ul>
+<li><a title="Assignment 11: Enemy AI Attacks" href="https://vertexschool.instructure.com/courses/463/assignments/3221" data-course-type="assignments" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/assignments/3221" data-api-returntype="Assignment">Assignment 11</a></li>
+</ul>
