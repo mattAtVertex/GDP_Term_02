@@ -1,0 +1,19 @@
+# AI Enemies Lesson Plan
+
+<p><a class="inline_disabled" title="Link" href="https://docs.google.com/presentation/d/1v2odTG8WR4TE0gQsHqaQdS6M_vuoAyQP4g7uBQ91IIw/edit?usp=sharing" target="_blank">Download the slides here.</a></p>
+<p><span>This comprehensive lesson is designed to introduce students to the foundational and advanced concepts of working with Artificial Intelligence (AI) in Unreal Engine 5 (UE5). Through a series of focused modules, students will learn how to create, manipulate, and enhance AI behaviors within a game development context. Starting with an introduction to AI in UE5, the lesson progresses through a range of topics including projected 3D UIs, first-person aiming mechanics, AI systems, importing and configuring exploding enemies, AI blueprints, and finally, developing melee AI with behavior trees.</span></p>
+<p><span>Below are the following lessons:</span></p>
+<p><a title="AI Intro" href="https://vertexschool.instructure.com/courses/463/pages/ai-intro" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/ai-intro" data-api-returntype="Page"><span>AI Intro</span></a></p>
+<p><span><a class="ig-title title item_link" title="Projected 3D UI" href="https://vertexschool.instructure.com/courses/463/modules/items/24464">Projected 3D UI</a></span></p>
+<p><span><a class="ig-title title item_link" title="First Person Aiming" href="https://vertexschool.instructure.com/courses/463/modules/items/24465">First Person Aiming</a></span></p>
+<p><span><a class="ig-title title item_link" title="AI System Explanation" href="https://vertexschool.instructure.com/courses/463/modules/items/24466">AI System Explanation</a></span></p>
+<p><a title="Exploding Enemy Import" href="https://vertexschool.instructure.com/courses/463/pages/exploding-enemy-import" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/exploding-enemy-import" data-api-returntype="Page"><span>Exploding Enemy Import</span></a></p>
+<p><a title="AI Blueprint Creation" href="https://vertexschool.instructure.com/courses/463/pages/ai-blueprint-creation" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/ai-blueprint-creation" data-api-returntype="Page"><span>AI Blueprint Creation</span></a></p>
+<p><a title="Melee AI Implementation" href="https://vertexschool.instructure.com/courses/463/pages/melee-ai-implementation" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/melee-ai-implementation" data-api-returntype="Page"><span>Melee AI Implementation</span></a></p>
+<p><a title="Behavior Tree Tasks" href="https://vertexschool.instructure.com/courses/463/pages/behavior-tree-tasks" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/pages/behavior-tree-tasks" data-api-returntype="Page"><span>Behavior Tree Tasks</span></a></p>
+<p><span>Assignment</span></p>
+<p><span>Leverage the power of Unreal Engine 5 to create a dynamic game level featuring advanced AI interactions. This assignment will test your ability to apply the concepts learned about AI systems, projected 3D UI, first-person aiming mechanics, and behavior trees. You will create a game level where players can interact with both hostile and non-hostile AI, showcasing your understanding of AI behavior customization in UE5.</span></p>
+<ul>
+<li><a title="Assignment 10: AI Enemies" href="https://vertexschool.instructure.com/courses/463/assignments/3220" data-course-type="assignments" data-published="false" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/463/assignments/3220" data-api-returntype="Assignment">Assignment 10&nbsp;</a></li>
+</ul>
+<p>&nbsp;</p>
